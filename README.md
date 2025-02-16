@@ -4,13 +4,13 @@
 
 ## 🚀 About Me
 
-👋 Hey there! I'm *Om Bandyopadhyay, a Computer Science enthusiast passionate about **AI, Machine Learning, Finance, and Cloud Technologies*. I love building projects that solve real-world problems and continuously exploring new technologies.
+👋 Hey there! I'm *Om Bandyopadhyay, a Computer Science enthusiast passionate about **Software development,Machine Learning, and Cloud Technologies*. I love building projects that solve real-world problems and continuously exploring new technologies in cloud and various other fields.
 
 - 🎓 *B.Tech in Computer Science* @ SRM University
-- 📌 *Currently Exploring:* LLMs, DevOps, Cloud Computing
-- 🚀 *Interested in:* AI Research, FinTech, and Full-Stack Development
+- 📌 *Currently Exploring:* Machine Learning Models, Solutions Architect, Cloud Developer and other Cloud Technologies
+- 🚀 *Interested in:* Machine Learning Models, Cloud Technologies , IOT frameworks and Full-Stack Development
 - 📖 *Publications:* IEEE Research on Brain Tumor Detection
-- 📫 *Let's connect:* [LinkedIn](https://www.linkedin.com/) | [Twitter](https://twitter.com/) | [Email](mailto:ombandyopadhyay@gmail.com)
+- 📫 *Let's connect:* [LinkedIn](https://www.linkedin.com/in/om-bandyopadhyay/) | [Email](mailto:ombandyopadhyay@gmail.com)
 
 ---
 
@@ -29,7 +29,6 @@
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -62,14 +61,12 @@
 
 🏆 *Winner of IITB Hackathon* – Developed a smart IoT-based weather prediction system.
 📜 *Published Research in IEEE* – Brain Tumor Detection using VGG16.
-📑 *Completed Several Certifications* – AI & ML, DevOps, Cloud Computing.
 
 ---
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OmBandyopadhyay-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-OmBandyopadhyay-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![LinkedIn](https://www.linkedin.com/in/om-bandyopadhyay/)
 [![Email](https://img.shields.io/badge/Email-ombandyopadhyay@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ombandyopadhyay@gmail.com)
 
 ---
