@@ -55,7 +55,7 @@
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://www.linkedin.com/in/om-bandyopadhyay/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-OmBandyopadhyay-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/om-bandyopadhyay/)
 [![Email](https://img.shields.io/badge/Email-ombandyopadhyay@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ombandyopadhyay@gmail.com)
 
 ---
