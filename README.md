@@ -48,7 +48,7 @@
 
 ## 🎯 Achievements & Certifications
 
-🏆 *Winner of IITB Hackathon* – Developed a smart IoT-based weather prediction system.
+🏆 *Winner of Techknow(2022-2023) Hackathon* – Developed a smart IoT-based weather prediction system.
 📜 *Published Research in IEEE* – Brain Tumor Detection using VGG16.
 
 ---
