@@ -7,6 +7,10 @@
 👋 Hey there! I'm *Om Bandyopadhyay, a Computer Science enthusiast passionate about **Software development,Machine Learning, and Cloud Technologies*. I love building projects that solve real-world problems and continuously exploring new technologies in cloud and various other fields.
 
 - 🎓 *B.Tech in Computer Science* @ SRM University
+- Internship Experiences :-
+                            - Research Intern **@ IIT-KGP'25**.
+                            - Internship Trainee **@ SAIL'25**
+                            - Administrative Translator-Healthcare Intern **@ SRM Global Hospitals'24**
 - 📌 *Currently Exploring:* Machine Learning Models, Solutions Architect, Cloud Developer and other Cloud Technologies
 - 🚀 *Interested in:* Machine Learning Models, Cloud Technologies , IOT frameworks and Full-Stack Development
 - 📖 *Publications:* IEEE Research on Brain Tumor Detection
