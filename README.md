@@ -56,6 +56,7 @@
 
 📜 *Published Research in IEEE* – Brain Tumor Detection using VGG16.
 
+*Oracle certified MySQL 8.0 Database Developer Professional*.
 ---
 
 ## 📫 Let's Connect!
