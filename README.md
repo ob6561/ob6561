@@ -11,7 +11,7 @@
                             - Research Intern **@ IIT-KGP'25**.
                             - Internship Trainee **@ SAIL'25**
                             - Administrative Translator-Healthcare Intern **@ SRM Global Hospitals'24**
-- 📌 *Currently Exploring:* Machine Learning Models, Solutions Architect, Cloud Developer and other Cloud Technologies
+- 📌 *Currently Exploring:* Angular js and .NET Framework, Machine Learning Models, Solutions Architect, Cloud Developer and other Cloud Technologies
 - 🚀 *Interested in:* Machine Learning Models, SAP - ABAP Programming, .NET framework, Cloud Technologies , IOT frameworks and Full-Stack Development
 - 📖 *Publications:* IEEE Research on Brain Tumor Detection
 - 📫 *Let's connect:* [LinkedIn](https://www.linkedin.com/in/om-bandyopadhyay/) | [Email](mailto:ombandyopadhyay@gmail.com)
